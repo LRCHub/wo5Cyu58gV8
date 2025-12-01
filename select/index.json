@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "【オリジナルMV】青と夏 / ぱすはに cover【歌ってみた】",
+  "base_artist": "ぱすはに【公式】",
+  "createdAt": "2025-12-01T08:18:57.393858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青と夏",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_青と夏_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青と夏 (青与夏)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_青と夏_(青与夏)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青と夏 - Ao To Natsu",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_青と夏_-_Ao_To_Natsu_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青と夏 - Remastered 2020",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_青と夏_-_Remastered_2020_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青と夏 (Instrumental)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_青と夏_(Instrumental)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青と夏",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_青と夏_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青と夏 - Ao To Natsu",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/07_青と夏_-_Ao_To_Natsu_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青と夏 - Ao To Natsu",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_青と夏_-_Ao_To_Natsu_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青と夏 - Ao To Natsu",
+      "artist": "Mrs.GREEN APPLE",
+      "has_synced": true,
+      "path": "select/09_青と夏_-_Ao_To_Natsu_Mrs.GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青と夏",
+      "artist": "Mrs.GREEN APPLE",
+      "has_synced": true,
+      "path": "select/10_青と夏_Mrs.GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "青と夏 - Ao To Natsu",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/11_青と夏_-_Ao_To_Natsu_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "青と夏",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/12_青と夏_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "青と夏",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/13_青と夏_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "青と夏",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/14_青と夏_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "青と夏",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/15_青と夏_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青と夏",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_青と夏_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "青と夏",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_02_青と夏_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "青と夏",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_03_青と夏_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "青と夏",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_04_青と夏_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "青と夏",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_05_青と夏_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
